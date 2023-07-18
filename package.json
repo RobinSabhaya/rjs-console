@@ -1,0 +1,25 @@
+{
+  "name": "rjs-console",
+  "version": "1.0.0",
+  "description": "This is a javascript library for beautiful consolelog in browser.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "console",
+    "logs",
+    "pretty-console",
+    "logs"
+  ],
+  "author": "Robin Sabhaya",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "files": [
+    "lib/**/* "
+  ]
+}
