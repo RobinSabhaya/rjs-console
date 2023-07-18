@@ -8,6 +8,10 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robin-sabhaya/rjs-console.git"
+  },
   "keywords": [
     "console",
     "logs",
@@ -19,6 +23,10 @@
   "devDependencies": {
     "typescript": "^5.1.6"
   },
+  "bugs": {
+    "url": "https://github.com/robin-sabhaya/rjs-console/issues"
+  },
+  "homepage": "https://github.com/robin-sabhaya/rjs-console#readme",
   "files": [
     "lib/**/* "
   ]
