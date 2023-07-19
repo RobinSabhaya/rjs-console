@@ -1,5 +1,5 @@
 {
-  "name": "rjs-log",
+  "name": "rjs-logs",
   "version": "1.0.0",
   "description": "This is a javascript library for beautiful consolelog in browser.",
   "main": "lib/index.js",
