@@ -8,4 +8,8 @@ export class Log{
     static info(message:string){
         console.log(`%c ${message}`, "color : blue");
     }
+    static bgblue(message:string){
+        console.log(`%c ${message}`, "background : blue");
+    }
+
 }
